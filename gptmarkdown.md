@@ -153,4 +153,5 @@ This document is a guide to using the SPOT transit App. Download the SPOT App. S
     - You can also check the ETA of a bus to your stop by following directions for “Viewing stop information” or “Viewing bus information”.
 
 **Applecart Website**  
-For more information on AppalCART and the SPOT App, visit [ETA SP
+For more information on AppalCART and the SPOT App, visit [ETA SPOT App (Live Transit) | AppalCART](https://www.appalcart.com/live-transit) 
+
